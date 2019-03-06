@@ -81,6 +81,7 @@ class Signup extends Component {
               <h1>Sign up to join ScholarBoard for free!</h1>
             </div> */}
 
+
           </section>
         </div>
       </div >
